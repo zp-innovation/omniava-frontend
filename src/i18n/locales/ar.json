@@ -1,0 +1,40 @@
+{
+  "common": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "cart": "السلة",
+    "checkout": "الدفع",
+    "orders": "الطلبات",
+    "search": "البحث",
+    "language": "اللغة"
+  },
+  "hero": {
+    "title": "مرحباً بك في OmniAva",
+    "subtitle": "اكتشف منتجات عالية الجودة واستمتع بأسعار مميزة",
+    "cta": "تسوق الآن"
+  },
+  "product": {
+    "addToCart": "أضف إلى السلة",
+    "viewDetails": "عرض التفاصيل",
+    "price": "السعر",
+    "description": "الوصف",
+    "reviews": "المراجعات"
+  },
+  "cart": {
+    "empty": "سلة التسوق فارغة",
+    "total": "المجموع",
+    "checkout": "الدفع",
+    "remove": "إزالة"
+  },
+  "checkout": {
+    "title": "الدفع",
+    "shipping": "معلومات الشحن",
+    "payment": "طريقة الدفع",
+    "placeOrder": "تأكيد الطلب"
+  },
+  "order": {
+    "confirmed": "تم تأكيد الطلب",
+    "number": "رقم الطلب",
+    "thankYou": "شكراً لك على الشراء!"
+  }
+}

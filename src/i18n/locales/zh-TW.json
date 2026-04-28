@@ -1,0 +1,40 @@
+{
+  "common": {
+    "home": "首頁",
+    "products": "產品列表",
+    "cart": "購物車",
+    "checkout": "結帳",
+    "orders": "訂單",
+    "search": "搜尋",
+    "language": "語言"
+  },
+  "hero": {
+    "title": "歡迎來到 OmniAva",
+    "subtitle": "發現優質商品，享受超值優惠",
+    "cta": "立即購物"
+  },
+  "product": {
+    "addToCart": "加入購物車",
+    "viewDetails": "查看詳情",
+    "price": "價格",
+    "description": "描述",
+    "reviews": "評價"
+  },
+  "cart": {
+    "empty": "購物車為空",
+    "total": "總計",
+    "checkout": "去結帳",
+    "remove": "移除"
+  },
+  "checkout": {
+    "title": "結帳",
+    "shipping": "配送資訊",
+    "payment": "支付方式",
+    "placeOrder": "提交訂單"
+  },
+  "order": {
+    "confirmed": "訂單已確認",
+    "number": "訂單號",
+    "thankYou": "感謝您的購買！"
+  }
+}

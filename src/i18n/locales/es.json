@@ -1,0 +1,40 @@
+{
+  "common": {
+    "home": "Inicio",
+    "products": "Productos",
+    "cart": "Carrito",
+    "checkout": "Pagar",
+    "orders": "Pedidos",
+    "search": "Buscar",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Bienvenido a OmniAva",
+    "subtitle": "Descubre productos de calidad y disfruta de grandes ofertas",
+    "cta": "Comprar Ahora"
+  },
+  "product": {
+    "addToCart": "Añadir al Carrito",
+    "viewDetails": "Ver Detalles",
+    "price": "Precio",
+    "description": "Descripción",
+    "reviews": "Reseñas"
+  },
+  "cart": {
+    "empty": "Tu carrito está vacío",
+    "total": "Total",
+    "checkout": "Pagar",
+    "remove": "Eliminar"
+  },
+  "checkout": {
+    "title": "Pago",
+    "shipping": "Información de Envío",
+    "payment": "Método de Pago",
+    "placeOrder": "Realizar Pedido"
+  },
+  "order": {
+    "confirmed": "Pedido Confirmado",
+    "number": "Número de Pedido",
+    "thankYou": "¡Gracias por tu compra!"
+  }
+}

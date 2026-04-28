@@ -1,0 +1,40 @@
+{
+  "common": {
+    "home": "首页",
+    "products": "产品列表",
+    "cart": "购物车",
+    "checkout": "结算",
+    "orders": "订单",
+    "search": "搜索",
+    "language": "语言"
+  },
+  "hero": {
+    "title": "欢迎来到 OmniAva",
+    "subtitle": "发现优质商品，享受超值优惠",
+    "cta": "立即购物"
+  },
+  "product": {
+    "addToCart": "加入购物车",
+    "viewDetails": "查看详情",
+    "price": "价格",
+    "description": "描述",
+    "reviews": "评价"
+  },
+  "cart": {
+    "empty": "购物车为空",
+    "total": "总计",
+    "checkout": "去结算",
+    "remove": "移除"
+  },
+  "checkout": {
+    "title": "结算",
+    "shipping": "配送信息",
+    "payment": "支付方式",
+    "placeOrder": "提交订单"
+  },
+  "order": {
+    "confirmed": "订单已确认",
+    "number": "订单号",
+    "thankYou": "感谢您的购买！"
+  }
+}

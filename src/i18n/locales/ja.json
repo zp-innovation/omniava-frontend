@@ -1,0 +1,40 @@
+{
+  "common": {
+    "home": "ホーム",
+    "products": "商品",
+    "cart": "カート",
+    "checkout": "購入手続き",
+    "orders": "注文",
+    "search": "検索",
+    "language": "言語"
+  },
+  "hero": {
+    "title": "OmniAvaへようこそ",
+    "subtitle": "高品質な商品とお得なお買い物をお楽しみください",
+    "cta": "今すぐショッピング"
+  },
+  "product": {
+    "addToCart": "カートに追加",
+    "viewDetails": "詳細を見る",
+    "price": "価格",
+    "description": "説明",
+    "reviews": "レビュー"
+  },
+  "cart": {
+    "empty": "カートは空です",
+    "total": "合計",
+    "checkout": "購入手続き",
+    "remove": "削除"
+  },
+  "checkout": {
+    "title": "購入手続き",
+    "shipping": "配送情報",
+    "payment": "お支払い方法",
+    "placeOrder": "注文を確定"
+  },
+  "order": {
+    "confirmed": "注文確認",
+    "number": "注文番号",
+    "thankYou": "ご購入ありがとうございます！"
+  }
+}
